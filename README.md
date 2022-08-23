@@ -1,4 +1,4 @@
-# M-MLE-by-BBVI
+# MMLE-by-BBVI
 
 This repository is devoted to the source code of the proposed method
 "Classification using Marginalized Maximum Likelihood Estimation and Black-Box Variational Inference" submitted to "Data Mining is More Than Comprehensive Analysis" (in honour of Prof. B. Mirkin)", by 
